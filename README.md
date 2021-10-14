@@ -9,4 +9,4 @@ Technical assessment exerciese for the Bank Of Industry, Nigeria
 
 3. Point your browser to http://localhost/brave
 
-4. Login with email: oagbiti-douglas@boi.ng and password: 0000
+4. Contact me to get login details 
