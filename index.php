@@ -46,7 +46,7 @@ if(isset($_SESSION['authenticate']) && isset($_SESSION['user_no'])) {
 				</span>
 			</div>
         	<div class="tx-center mg-b-30 mg-t-10"></div>
-            
+
         	<form name="form" id="form" action="process/" method="post">
                 <?php if(isset($_GET['pag'])) { ?>
                 <input type="hidden" name="pag" value="<?php echo $_GET['pag']; ?>" />
