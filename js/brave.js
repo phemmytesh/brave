@@ -3,8 +3,6 @@
  * Copyright 2021 Femi Omotesho
  */
 
- 'use strict';
-
  $(document).ready(function(){
 
   // This will auto show sub menu using the slideDown()
